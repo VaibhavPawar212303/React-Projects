@@ -1,0 +1,31 @@
+
+
+input{
+    display: flex;
+    flex-direction: column;
+    height: 25px;
+    border-style: inset;
+    border-color: gray;
+    margin-bottom: 5px;
+}
+
+.cardetails{
+    box-shadow: 3px 3px 4px  gray ;
+    width: 14rem;
+    height: 21rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left:20px ;
+    border-radius: 4px;
+}
+
+.heading{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.submitBtn{
+    height: 2rem;
+}
